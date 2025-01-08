@@ -5,7 +5,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?theme=github_dark&hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=DenisNezhnyansky-QA
 )
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=DenisNezhnyansky-QA
+![](https://github-readme-stats.vercel.app/api/top-langs/?theme=github_dark&layout=donut&langs_count=6&hide_progress=true&username=DenisNezhnyansky-QA
 )
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
