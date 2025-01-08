@@ -1,9 +1,9 @@
-## Привет！ 👋
+## Привет！👋
 Меня зовут Денис, я QA Engineer в компании HSE (Высшая школа экономики)
 
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=DenisNezhnyansky-QA
+![](https://github-readme-stats.vercel.app/api?theme=github_dark&hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=DenisNezhnyansky-QA
 )
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=DenisNezhnyansky-QA
 )
